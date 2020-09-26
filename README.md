@@ -6,7 +6,7 @@
 All of the packages should be installed with Python; if you do not have Python 3.8, I recommend updating 
 to the latest version.   
 To run the program, locate the folder containing markov.py and run the following:
-```console
+```terminal
 python3 markov.py [num_spaces]
 ```
 where num_spaces is an integer greater than zero. If num_spaces is not specified, it is set to 25.   
